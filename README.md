@@ -29,4 +29,10 @@ In this step, the preferred temperature range is asked from a traveler/customer,
 <p align="center">
 </p>
 
-3. Determined travel itinerary map for each customer based on selected weather condition
+3. Determined travel itinerary map for each customer based on selected weather conditions: <br>
+In this step, the traveler chooses four hotels among the obtained locations in the previous step. Then, the route of travel is determined using Google Direction API (Figure 4).
+<p img align="center" width="100%">
+<img width="250" alt="travel_map_markers" src="https://user-images.githubusercontent.com/85843401/129463058-3f016baf-41e1-400d-93c3-4e323a33e2e3.png">
+<img width="400" alt="travel_map_direction" src="https://user-images.githubusercontent.com/85843401/129463060-334b3967-9146-4427-b292-92cfba92d930.png"><figcaption>Figure 4: Demonstration of left) selected hotels, rigth) travel destination route.</figcaption></figure/> 
+<p align="center">
+</p>
