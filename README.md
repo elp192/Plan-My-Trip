@@ -3,7 +3,7 @@ This project aims to collect data and improve the user interface (customer searc
 In this project, different sources which are introduced as follows are used:
 - Programming language: Python (version 3.8.8)- code is written in Jupyter Notebook.
 - Dependencies: [Citypy](https://github.com/wingchen/citipy), Numpy (version 1.21.0), Pandas (version 1.3.0), Matplotlibs (version 3.4.2), gmaps (version 0.9.0), Python Requests (version 2.25.1)
-- API: [Open Weather](https://openweathermap.org/api), [Google Maps and Places](https://console.cloud.google.com/google/maps-apis/new?project=prime-boulevard-321320), and [Google Directions](https://cloud.google.com/maps-platform/)
+- API: [Open Weather](https://openweathermap.org/api), [Google Maps and Places](https://cloud.google.com/maps-platform/), and [Google Directions](https://cloud.google.com/maps-platform/)
 
 ## Results
 Three steps are followed to reach the goal of this project:<br>
